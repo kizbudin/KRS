@@ -1,2 +1,2 @@
 # KRS
-Tugas PBO
+Aplikasi KRS Sistem terdistribusi berbasis Java
